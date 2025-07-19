@@ -5,30 +5,36 @@
   <img src="https://img.shields.io/badge/Passionate%20Learner-%23E4405F.svg?&style=flat-square&logo=book&logoColor=white" alt="Passionate Learner">
 </div>
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a love for coding, problem-solving, and building innovative projects. Feel free to explore my repositories, clone projects, or raise issues if you have suggestions for improvement. Let's create something amazing together!
+Welcome to my GitHub profile! I'm a passionate software engineer specializing in web development and building scalable applications. Feel free to explore my repositories, clone projects, or raise issues if you have suggestions for improvement. Let's create something amazing together!
 
 Happy Coding! 😊
 
 ## 🚀 About Me
-- 🎓 Studying Computer Science and always eager to learn new technologies.
-- 💻 Experienced in web development, competitive programming, and building scalable applications.
-- 🌍 Based in [Your Location, e.g., Cairo, Egypt].
-- 📫 Reach me at: [Your Email, e.g., gamal.ahmed@example.com].
-- ⚡ Fun fact: I love solving coding challenges and exploring new frameworks!
+- 🎓 Studying Computer Science at Helwan University, Faculty of Computers and Information.
+- 💻 Experienced in full-stack web development with a focus on .NET and Angular.
+- 🌍 Based in Cairo, Egypt.
+- 📫 Reach me at: gamalahmedmohammed404@gmail.com.
+- ⚡ Fun fact: I love tackling complex backend challenges and crafting sleek user interfaces!
 
 ## 🛠️ Skills
-- **Languages**: Python, JavaScript, C++, HTML, CSS
-- **Frameworks & Tools**: React, Node.js, Django, Git, Docker
-- **Other**: Competitive Programming, Problem Solving, REST APIs
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?&style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?&style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?&style=flat-square&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/EF_Core-%23239120.svg?&style=flat-square&logo=dotnet&logoColor=white" alt="EF Core">
+  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?&style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?&style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+</div>
 
 ## 📊 GitHub Stats
-![Gamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical)
-
-## 🌟 Featured Projects
-- **[Project Name 1]**: A brief description of a key project, e.g., "A React-based e-learning platform mimicking Udemy's features." [Link to Repo]
-- **[Project Name 2]**: A brief description, e.g., "A Django music platform backend for managing users, artists, and songs." [Link to Repo]
-- **[Project Name 3]**: A brief description, e.g., "A Google Sheets dashboard for organizing tabs by category." [Link to Repo]
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GamalAhmed&show_icons=true&theme=radical" alt="Gamal's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamalAhmed&layout=compact&theme=radical" alt="Top Languages">
+</div>
 
 ## 📬 Connect with Me
 <div align="center">

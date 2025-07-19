@@ -1,17 +1,17 @@
 # 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Gamal Ahmed
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-%230077B5.svg?&style=flat-square&logo=code&logoColor=white" alt="Software Engineer">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%230077B5.svg?&style=flat-square&logo=code&logoColor=white" alt="Full Stack Developer">
   <img src="https://img.shields.io/badge/Passionate%20Learner-%23E4405F.svg?&style=flat-square&logo=book&logoColor=white" alt="Passionate Learner">
 </div>
 
-Welcome to my GitHub profile! I'm a passionate software engineer specializing in web development and building scalable applications. Feel free to explore my repositories, clone projects, or raise issues if you have suggestions for improvement. Let's create something amazing together!
+Welcome to my GitHub profile! I'm a passionate full-stack developer specializing in web development and building scalable applications. Feel free to explore my repositories, clone projects, or raise issues if you have suggestions for improvement. Let's create something amazing together!
 
 Happy Coding! 😊
 
 ## 🚀 About Me
-- 🎓 Studying Computer Science at Helwan University, Faculty of Computers and Information.
-- 💻 Experienced in full-stack web development with a focus on .NET and Angular.
+- 🎓 Graduated with a degree in Computer Science from Helwan University, Faculty of Computers and Information.
+- 💻 Skilled in full-stack web development with expertise in .NET and Angular.
 - 🌍 Based in Cairo, Egypt.
 - 📫 Reach me at: gamalahmedmohammed404@gmail.com.
 - ⚡ Fun fact: I love tackling complex backend challenges and crafting sleek user interfaces!
@@ -41,14 +41,7 @@ Happy Coding! 😊
   <a href="https://www.linkedin.com/in/gamal-ahmed-55b11722a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/gamall_29](https://www.instagram.com/giimy29" target="_blank">
+  <a href="https://www.instagram.com/gamall_29" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/gamal.ahmad.1485" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-</div>
-
----
-
-⭐️ If you find my work inspiring, please give a star to my repositories! Let's connect and code together! 🚀
+  <a href="https://www.facebook οικο

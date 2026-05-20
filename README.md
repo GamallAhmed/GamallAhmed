@@ -1,47 +1,111 @@
-# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Gamal Ahmed
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hey+There+👋;I'm+Gamal+Ahmed;Full+Stack+.NET+Developer;Angular+%7C+.NET+%7C+SQL+Server;Always+Learning+New+Things+🚀" />
+</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%230077B5.svg?&style=flat-square&logo=code&logoColor=white" alt="Full Stack Developer">
-  <img src="https://img.shields.io/badge/Passionate%20Learner-%23E4405F.svg?&style=flat-square&logo=book&logoColor=white" alt="Passionate Learner">
+  <img src="https://komarev.com/ghpvc/?username=GamalAhmed&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/GamalAhmed?logo=github&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/GamalAhmed?logo=github&style=for-the-badge&color=yellow" />
 </div>
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer specializing in web development and building scalable applications. Feel free to explore my repositories, clone projects, or raise issues if you have suggestions for improvement. Let's create something amazing together!
+---
 
-Happy Coding! 😊
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
-- 🎓 Graduated with a degree in Computer Science from Helwan University, Faculty of Computers and Information.
-- 💻 Skilled in full-stack web development with expertise in .NET and Angular.
-- 🌍 Based in Cairo, Egypt.
-- 📫 Reach me at: gamalahmedmohammed404@gmail.com.
-- ⚡ Fun fact: I love tackling complex backend challenges and crafting sleek user interfaces!
 
-## 🛠️ Skills
+💻 Full Stack Developer specialized in building scalable web applications.  
+🎓 Graduate of Faculty of Computers & Artificial Intelligence - Helwan University.  
+🔥 Passionate about Backend Development, Clean Architecture, and Modern UI Design.  
+🌱 Currently learning advanced software engineering concepts and cloud technologies.  
+📍 Based in Cairo, Egypt.  
+⚡ I enjoy solving complex problems and transforming ideas into real products.
+
+---
+
+## 🌐 Connect With Me
+
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?&style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?&style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?&style=flat-square&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/EF_Core-%23239120.svg?&style=flat-square&logo=dotnet&logoColor=white" alt="EF Core">
-  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?&style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?&style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+
+<a href="https://www.linkedin.com/in/gamal-ahmed-55b11722a" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+</a>
+
+<a href="mailto:gamalahmedmohammed404@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55" />
+</a>
+
+<a href="https://www.instagram.com/gamall_29" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="55" />
+</a>
+
+<a href="https://github.com/GamalAhmed" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="55" />
+</a>
+
+<a href="https://www.facebook.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" width="55" />
+</a>
+
 </div>
 
-## 📊 GitHub Stats
+---
+
+# 💻 Tech Stack
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GamalAhmed&show_icons=true&theme=radical" alt="Gamal's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamalAhmed&layout=compact&theme=radical" alt="Top Languages">
+
+## 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,sass,angular,react,vite,jquery" />
+
+## ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" />
+
+## 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" />
+
+## 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,firebase,figma,linux,npm,webpack,docker" />
+
+## 📚 Currently Learning
+<img src="https://skillicons.dev/icons?i=azure,kubernetes,redis" />
+
 </div>
 
-## 📬 Connect with Me
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/gamal-ahmed-55b11722a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/gamall_29" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.facebook οικο
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GamalAhmed&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamalAhmed&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=GamalAhmed&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+
+
+---
+
+
+---
+
+# 🔥 Featured Skills
+
+```javascript
+const gamalAhmed = {
+  code: ["C#", "JavaScript", "TypeScript", "SQL"],
+  technologies: {
+    frontend: ["Angular", "Bootstrap", "Tailwind CSS", "React"],
+    backend: [".NET Core", "ASP.NET Core Web API", "Entity Framework"],
+    databases: ["SQL Server", "MongoDB", "PostgreSQL"],
+    tools: ["Git", "GitHub", "Docker", "Postman"]
+  },
+  architecture: ["REST APIs", "Clean Architecture", "MVC"],
+  currentFocus: "Building scalable full-stack applications"
+};
